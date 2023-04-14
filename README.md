@@ -2,7 +2,8 @@
 Generate an Image from DWD Solar Forecast Data for ePaper Display.  
 
 You get it. This is going to be a container serving a chart containing solar forecast data for display on an ePaper.
-It is based off (original Python script): https://www.photovoltaikforum.com/thread/144350-kostenlose-wetterprognose-pv-prognose-ertragsprogonse-mit-st%C3%BCndlicher-aufl%C3%B6sung/ 
+It is based off (original Python script): https://www.photovoltaikforum.com/thread/144350-kostenlose-wetterprognose-pv-prognose-ertragsprogonse-mit-st%C3%BCndlicher-aufl%C3%B6sung/  
+Repo is at https://github.com/kilianknoll/DWDForecast
 
 ## Why?
 You might want to know when to empty your battery because it will be full at the end of the day, anyway.
